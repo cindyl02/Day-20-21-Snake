@@ -1,0 +1,2 @@
+## Snake (Day 20 and 21)
+This project uses Python Turtle and OOP to build a snake game. It saves the user's high score even when the game ends by writing to a `data.txt` file and reads from it when the game starts. The program creates key event listeners to control the snake's movement. 
